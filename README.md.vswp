@@ -1,11 +1,12 @@
+vnote_backup_file_826537664 E:/GitApp/TestApp_1/LineBot_with_Database/README.md
 # LineBot_with_Database
 建立一個Line機器人並且搭配資料庫
 
 先說明會用到以下幾個部分，需要安裝的東西會在每個部分逐步解釋
 1. Line
-2. SDK
 2. Heroku平台
-3. Database
+3. 3. SDK
+4. Database
 
 ## Line
 請先到 <https://developers.line.biz/en/> 註冊自己的帳號吧。
