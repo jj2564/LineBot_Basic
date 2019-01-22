@@ -108,6 +108,11 @@ https://[YOUR-APP-NAME].herokuapp.com/callback
   git commit -m "上傳的註記"
   git push heroku master
   ```
-    add的時候可能會跳出些警告，再打一次就好。 
+add的時候可能會跳出些警告，再打一次就好。 
 
-如果順利的話我們就可以來我們的Line跟機器人對話囉。
+如果順利的話我們就可以來我們的Line跟機器人對話囉。  
+![bot_reply](_v_images/_bot_reply_1548154149_14544.png)  
+
+
+如果有問題歡迎在我的Github與我討論。
+之後也會繼續新增內容
